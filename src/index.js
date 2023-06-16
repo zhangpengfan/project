@@ -15,7 +15,9 @@ jQuery.ajax({
 jQuery.ajax({
     url: "/api1/abc1",
 })
+//hhhh
 
 console.log(_);
+console.log(a);
 console.log(a);
 console.log("process.env.NODE_ENV:", process.env.NODE_ENV);
